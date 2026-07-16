@@ -40,6 +40,49 @@ A simple calculator built using Java Swing for basic arithmetic operations.
 | Layer       | Technology  |
 |-------------|-------------|
 | Language    | Java        |
+-----------------------------
+### Quiz System (Java + MySQL)
+
+A quiz application built with Java, using MySQL for storing questions, answers, and results.
+
+[![Quiz System](https://github-readme-stats.vercel.app/api/pin/?username=mohad-mustafa&repo=Quiz-System-Java-MySQL&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/mohad-mustafa/Quiz-System-Java-MySQL)
+
+| Layer       | Technology  |
+|-------------|-------------|
+| Language    | Java        |
+| Database    | MySQL       |
+
+🔗 [Code](https://github.com/mohad-mustafa/Quiz-System-Java-MySQL)
+
+---
+
+### Fire Alert System (Digital Logic Design)
+
+A fire detection and alert system designed as part of a Digital Logic Design course project.
+
+[![Fire Alert System](https://github-readme-stats.vercel.app/api/pin/?username=mohad-mustafa&repo=Fire-Alert-System-DLD&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/mohad-mustafa/Fire-Alert-System-DLD)
+
+| Layer       | Technology            |
+|-------------|------------------------|
+| Domain      | Digital Logic Design   |
+| Components  | Sensors, Circuit Logic |
+
+🔗 [Code](https://github.com/mohad-mustafa/Fire-Alert-System-DLD)
+
+---
+
+### MCQ-Based Test System (C++)
+
+A console-based multiple-choice question test system built in C++.
+
+[![MCQ Test System](https://github-readme-stats.vercel.app/api/pin/?username=mohad-mustafa&repo=MCQ-Test-CPP&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/mohad-mustafa/MCQ-Test-CPP)
+
+| Layer       | Technology  |
+|-------------|-------------|
+| Language    | C++         |
+| Interface   | Console     |
+
+🔗 [Code](https://github.com/mohad-mustafa/MCQ-Test-CPP)
 
 
 
