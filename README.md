@@ -63,8 +63,7 @@ A simple calculator built using Java Swing for basic arithmetic operations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohad-mustafa&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohad-mustafa&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" width="48%"/>
+
 
 <img src="https://streak-stats.demolab.com?user=mohad-mustafa&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
 
