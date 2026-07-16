@@ -22,9 +22,8 @@ const mohadMustafa = {
   title: "CS Student",
   stack: ["C++", "Java", "Cybersecurity", "AI"],
   launchedProjects: ["Java Calculator App"],
-  certifications: [],
   status: "Learning & Building",
-  openTo: "Full-time / Internship opportunities",
+  openTo: "Internship opportunities",
 };
 ```
 
