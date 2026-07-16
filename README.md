@@ -36,14 +36,13 @@ const mohadMustafa = {
 
 A simple calculator built using Java Swing for basic arithmetic operations.
 
-[![Java Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=mohad-mustafa&repo=Java-Calculator-App&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/mohad-mustafa/Java-Calculator-App)
+
 
 | Layer       | Technology  |
 |-------------|-------------|
 | Language    | Java        |
-| UI          | Java Swing  |
 
-🔗 [Code](https://github.com/mohad-mustafa/Java-Calculator-App)
+
 
 ---
 
