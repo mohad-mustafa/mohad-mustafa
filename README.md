@@ -71,13 +71,7 @@ A simple calculator built using Java Swing for basic arithmetic operations.
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohad-mustafa&no-frame=true&no-bg=true&theme=nord" />
-</div>
-
----
 
 ## 📈 Contribution Activity
 
